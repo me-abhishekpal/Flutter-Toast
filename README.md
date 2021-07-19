@@ -1,6 +1,6 @@
 # flutter_toast
 
-A new Flutter plugin.
+A plugin to help show toasts.
 
 ## Getting Started
 
