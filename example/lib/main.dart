@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
     return new MaterialApp(
       home: new Scaffold(
         appBar: new AppBar(
-          title: new Text('Plugin example app'),
+          title: new Text('Plugin main example app update'),
         ),
         body: new Center(),
       ),
